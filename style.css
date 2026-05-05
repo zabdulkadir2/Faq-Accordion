@@ -3,6 +3,7 @@ body{
     background-repeat: no-repeat;
     margin: 0;
     font-family: 'Work Sans', sans-serif;
+    padding: 0;
 }
 
 .main-container{
@@ -18,9 +19,8 @@ body{
     width: 550px;
    max-width: 100%;
     background-color: white !important;
-    padding: 20px;
+    padding: 40px;
     border-radius: 10px;
-    /* margin-top: 20px; */
     border-bottom: 1px solid #ccc;
     
 }
