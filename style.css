@@ -1,7 +1,7 @@
 body{
     background-image: url('assets/images/background-pattern-desktop.svg');
     background-repeat: no-repeat;
-    min-height: auto;
+    /* min-height: auto; */
     font-family: 'Work Sans', sans-serif;
 }
 
