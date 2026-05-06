@@ -11,6 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     gap: 2rem;
+    min-height: 80vh;
     padding-top: 60px;
     
 }
@@ -61,7 +62,8 @@ hr{
     text-align: center; 
     display: flex;
     justify-content: center;
-    margin-top: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 .attribution a { 
     color: hsl(228, 45%, 44%); 
