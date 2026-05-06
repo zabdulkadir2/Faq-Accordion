@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     /* gap: 2rem; */
-    padding-top: 140px;
+    padding-top: 160px;
     
 }
 .card{
@@ -73,11 +73,12 @@ hr{
 
     body{
         background-image: url('assets/images/background-pattern-mobile.svg');
+        background-position: top center;
     }
 
     .main-container{
         flex-direction: column; 
-        padding: 10px;
+        padding-top: 100px;
     }
 
     .card{
