@@ -4,15 +4,15 @@ body{
     margin: 0;
     font-family: 'Work Sans', sans-serif;
     padding: 0;
+    background-position: top center;
 }
 
 .main-container{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 2rem;
-    align-items: flex-start;
-    padding-top: 120px;
+    /* gap: 2rem; */
+    padding-top: 140px;
     
 }
 .card{
