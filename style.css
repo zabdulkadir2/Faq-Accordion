@@ -11,8 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     gap: 2rem;
-    min-height: 80vh;
-    padding-top: 60px;
+    padding: 30px;
     
 }
 .card{
