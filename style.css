@@ -11,8 +11,8 @@ body{
     justify-content: center;
     align-items: center;
     gap: 2rem;
-    min-height: 100vh;
-    padding-top: 40px;
+    min-height: 80vh;
+    padding-top: 60px;
     
 }
 .card{
@@ -63,7 +63,7 @@ hr{
     text-align: center; 
     display: flex;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 .attribution a { 
     color: hsl(228, 45%, 44%); 
