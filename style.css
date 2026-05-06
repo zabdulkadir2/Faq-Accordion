@@ -22,8 +22,6 @@ body{
     padding: 40px;
     border-radius: 10px;
     border-bottom: 1px solid #ccc;
-     /* margin-top: 200px !important; */
-    
 }
 .heading{
     display: flex;
@@ -33,7 +31,7 @@ body{
 .question{
     font-size: 16px;
     font-weight: 700;
-    white-space: normal;
+    white-space: nowrap;
 
 }
 .answer{
@@ -65,7 +63,7 @@ hr{
     text-align: center; 
     display: flex;
     justify-content: center;
-    margin-bottom: 10px;
+    margin-top: 10px;
 }
 .attribution a { 
     color: hsl(228, 45%, 44%); 
